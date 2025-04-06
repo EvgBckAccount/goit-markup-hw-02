@@ -22,7 +22,7 @@ body{
     color: #fff;
     cursor: pointer;
 }
-.tiltle-btn:hover,
+.title-btn:hover,
 .title-btn:focus{
     background-color: #404BBF;
 }
@@ -36,6 +36,13 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+.specialty-botton{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
 }
 .speciality-text{
     line-height: 1.5;
@@ -62,11 +69,19 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    background-color: #fff;
 }
 .team-position{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
+}
+.team-name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em
 }
 
 .portfolio{
